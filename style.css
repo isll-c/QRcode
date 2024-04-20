@@ -1,0 +1,40 @@
+body {
+    background: #d5e1ef;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    color: #1F2B41;
+    font-size: 20px;
+    font-family: Arial ;
+}
+
+p {
+    color: gray;
+    font-size: 15px;
+    font-family: Calibri;
+}
+
+.all {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 60px;
+  
+}
+.pic {
+    width: 270px;
+    border-radius: 8px;
+    margin: 15px 15px 5px 15px;
+}
+
+.paragraph {
+    border: 1px solid white;
+    padding: 5px 25px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 20px;
+} 
